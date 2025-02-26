@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "380596777634",
+    "project_id": "fir-671a4",
+    "storage_bucket": "fir-671a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380596777634:android:d1c8e69c4aafb846339dfb",
+        "android_client_info": {
+          "package_name": "com.example.harshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380596777634-8pvmum1hqfkr0adkfqtjvit1lj6anpi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUm9VF2L9MbMeCKFq8cXGSohMOONTeDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380596777634-8pvmum1hqfkr0adkfqtjvit1lj6anpi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380596777634-7rul19sof3jeaa7jjf3ge4a708j775el.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.harshit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380596777634:android:2c554c0a9ad4ddda339dfb",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380596777634-8pvmum1hqfkr0adkfqtjvit1lj6anpi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUm9VF2L9MbMeCKFq8cXGSohMOONTeDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380596777634-8pvmum1hqfkr0adkfqtjvit1lj6anpi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380596777634-7rul19sof3jeaa7jjf3ge4a708j775el.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.harshit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
